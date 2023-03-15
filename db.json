@@ -1,0 +1,48 @@
+{
+  "cases": [
+    {
+      "name": "SALIM",
+      "gender": "Male",
+      "age": 24,
+      "address": "dndfg",
+      "city": "test",
+      "country": "TUNISIA",
+      "status": "positive",
+      "updated": "2023-03-14",
+      "id": "1"
+    },
+    {
+      "name": "samira",
+      "gender": "Female",
+      "age": 20,
+      "address": "sfgsfj",
+      "city": "rtjrtj",
+      "country": "TUNISIA",
+      "status": "Active",
+      "updated": "2023-03-14",
+      "id": "2"
+    },
+    {
+      "name": "Bob Marley",
+      "gender": "Male",
+      "age": 40,
+      "address": "dndfgjj",
+      "city": "test",
+      "country": "USA",
+      "status": "dead",
+      "updated": "2023-03-14",
+      "id": "3"
+    },
+    {
+      "name": "hama",
+      "gender": "male",
+      "age": 22,
+      "address": "234 zeysgnj",
+      "city": "qgdgq",
+      "country": "TUNISIA",
+      "status": "positive",
+      "updated": "2023-03-14",
+      "id": "4"
+    }
+  ]
+}
